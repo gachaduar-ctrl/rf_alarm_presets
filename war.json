@@ -3,7 +3,7 @@
   "type": "war",
   "sound": "war_horn",
   "alarms": [
-    { "label": "Chip War Pagi", "hour":  06, "minute": 0 },
+    { "label": "Chip War Pagi", "hour": 06, "minute": 0 },
     { "label": "Chip War Siang", "hour": 14, "minute": 0 },
     { "label": "Chip War Malam", "hour": 22, "minute": 0 }
   ]
