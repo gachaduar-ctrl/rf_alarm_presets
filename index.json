@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "updated": "2025-01-15",
+  "presets": [
+    {
+      "id": "pitboss",
+      "name": "🐉 Pitboss Schedule",
+      "description": "Jadwal spawn pitboss standard",
+      "file": "pitboss.json",
+      "category": "pitboss"
+    },
+    {
+      "id": "war",
+      "name": "⚔️ War Schedule",
+      "description": "Jadwal chip war & guild war",
+      "file": "war.json",
+      "category": "war"
+    }
+  ]
+}
