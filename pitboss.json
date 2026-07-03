@@ -3,9 +3,9 @@
   "type": "pitboss",
   "sound": "siren",
   "alarms": [
-    { "label": "Crag Mine", "hour": 00, "minute": 30 },
-    { "label": "Crag Mine", "hour": 04, "minute": 30 },
-    { "label": "Crag Mine", "hour": 08, "minute": 30 },
+    { "label": "Crag Mine", "hour": 24, "minute": 30 },
+    { "label": "Crag Mine", "hour": 4, "minute": 30 },
+    { "label": "Crag Mine", "hour": 8, "minute": 30 },
     { "label": "Crag Mine", "hour": 12, "minute": 30 },
     { "label": "Crag Mine", "hour": 16, "minute": 30 },
     { "label": "Crag Mine", "hour": 20, "minute": 30 },
