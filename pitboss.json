@@ -3,8 +3,13 @@
   "type": "pitboss",
   "sound": "siren",
   "alarms": [
-    { "label": "Elan Plateau", "hour": 21, "minute": 0 },
-    { "label": "Crag Mine", "hour": 21, "minute": 0 },
+    { "label": "Crag Mine", "hour": 00, "minute": 30 },
+    { "label": "Crag Mine", "hour": 04, "minute": 30 },
+    { "label": "Crag Mine", "hour": 08, "minute": 30 },
+    { "label": "Crag Mine", "hour": 12, "minute": 30 },
+    { "label": "Crag Mine", "hour": 16, "minute": 30 },
+    { "label": "Crag Mine", "hour": 20, "minute": 30 },
+    { "label": "Elan Plateau", "hour": 21, "minute": 00 },
     { "label": "Ether", "hour": 21, "minute": 0 },
     { "label": "Sette Desert", "hour": 21, "minute": 0 }
   ]
