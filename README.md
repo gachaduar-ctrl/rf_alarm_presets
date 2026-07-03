@@ -2,6 +2,9 @@
 
 Aplikasi alarm untuk RF Online — schedule pitboss spawn & war events.
 
+<img width="957" height="747" alt="Screenshot_1" src="https://github.com/user-attachments/assets/5d182a87-9f7e-4a2d-9eb0-aebcfc91b867" />
+
+
 ### Downloads
 - **Windows **:  Check Release (Recommended)
 
